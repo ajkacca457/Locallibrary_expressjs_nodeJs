@@ -28,19 +28,9 @@ $ cd <folder>
 ```bash
 
 $ git clone `https://github.com/ajkacca457/Locallibrary_expressjs_nodeJs.git`
-$ cd react_capstone_tvshowcatalouge
+$ cd Locallibrary_expressjs_nodeJs
 $ Run `npm install` to install the necessary modules
 $ Run `npm run start` to open app in localhost.
-
-```
-
-# Testing Project
-
-To run test in your terminal:
-
-```bash
-$ Run `npm run test` to run test
-$ enter `a` to run all the test in the app.
 
 ```
 
