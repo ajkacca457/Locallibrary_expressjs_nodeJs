@@ -12,12 +12,10 @@ The aim of this project was to recreate a local library based on given instructi
 - Html
 - Css
 - Vanila Js
-- Atom text editor
-- React Js
-- redux
-- react-redux
-- rails api
-- Npm
+- VS code
+- Node Js
+- Express Js
+- MongoDB
 
 # Getting Started
 
@@ -29,7 +27,7 @@ $ cd <folder>
 
 ```bash
 
-$ git clone `https://github.com/ajkacca457/course-tracker_finalcapstone.git`
+$ git clone `https://github.com/ajkacca457/Locallibrary_expressjs_nodeJs.git`
 $ cd react_capstone_tvshowcatalouge
 $ Run `npm install` to install the necessary modules
 $ Run `npm run start` to open app in localhost.
